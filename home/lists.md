@@ -2,7 +2,7 @@
 title: Lists
 description: 
 published: true
-date: 2026-03-23T19:30:39.647Z
+date: 2026-03-23T19:32:34.462Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-23T19:30:39.647Z
@@ -17,3 +17,4 @@ A collection of personal list pages.
 - [ToDos](lists/todos) — Things I need to do
 - [Bands to See](lists/bands-to-see) — Bands I want to see live
 - [Things to Do](lists/things-to-do) — Experiences and activities I want to do
+- [Quotes](lists/quotes) — Quotes I find meaningful, inspiring, or interesting
