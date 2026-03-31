@@ -2,7 +2,7 @@
 title: Stans Personal Wiki
 description: 
 published: true
-date: 2026-03-25T18:44:35.414Z
+date: 2026-03-31T19:25:49.461Z
 tags: 
 editor: markdown
 dateCreated: 2026-03-21T13:50:56.959Z
@@ -10,5 +10,5 @@ dateCreated: 2026-03-21T13:50:56.959Z
 
 # Stan's Personal Wiki
 
-- [Projects](projects)
-- [Lists](lists)
+- [Projects](/home/projects)
+- [Lists](/home/lists)
